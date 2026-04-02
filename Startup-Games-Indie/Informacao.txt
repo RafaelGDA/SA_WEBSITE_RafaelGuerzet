@@ -71,30 +71,3 @@ Um jogo de guerra em um mundo medieval, o jogador enfrentara diversos inimigos m
 
 Fantasy Hunter - Lançado: 15/06/2009
 Explore um mundo fantastico cheio de desafios, com os seus companheiros. Batalhe contra mostros colossais em um mapa aberto.
-
-ESQUELETO BASE UTILISADO NA ANTIGA VERÇÃO:
-
-<section>
-    <article>
-        <figure>
-            <figcaption>
-                <p>
-                </p>
-            </figcaption>
-        </figure>
-
-        <figure>
-            <figcaption>
-                <p>
-                </p>
-            </figcaption>
-        </figure>
-
-        <figure>
-            <figcaption>
-                <p>
-                </p>
-            </figcaption>
-        </figure>
-    </article>
-</section>
