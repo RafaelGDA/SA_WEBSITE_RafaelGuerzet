@@ -1,0 +1,100 @@
+PAGIAN 1:
+
+PixelForge Studios
+Feitos por jogadores, moldado por sonhos
+
+INICIO
+BIBLIOTECA
+GALERIA
+CONTATO
+
+
+Quem somos?
+A PixelForge Studios é uma desenvolvedora independente dedicada a criar jogos de alta qualidade para PC e dispositivos móveis. Nascemos da vontade de unir inovação técnica e criatividade artística para "forjar" experiências que transcendem a tela. Nosso compromisso é entregar jogabilidade refinada e mundos imersivos para uma comunidade global de jogadores apaixonados.
+
+Nossos jogos em destaques:
+GTA 26
+Magic Valey
+Gold War
+Fantasy Hunter
+
+Quer saber mais sobre a gente? click aqui
+
+pixelForgeStudios@gmail.com.br | 999-999-999 | 2026
+
+----------------------------------------------------------------------
+PAGINA 2:
+
+Item
+Descrição
+Data
+Valor
+Compatibilidade
+
+GTA 26
+    Jogo de que simula a vida real, com elementos realistas.
+    05/03/2026
+    R$90,00
+    PC / PS9
+
+Gold War
+Historia inspirada em contos gregos, com bastante brutalidade.
+    30/10/2020
+    R$75,20
+    PS9
+
+Magic Valey
+Um simulador de fasenda, com varias criaturas fantasiosas.
+    21/05/2014
+    R$40,90
+    PC / CUBO 64
+
+Fantasy Hunter
+Se torne um caçador de criaturas mitologicas em um mundo arberto.
+    15/06/2009
+    R$75,20
+    CUBO 64 / GAME BIL
+
+---------------------------------------------------------------------------
+PAGINA 3:
+
+Galeria
+
+GTA 26 - Lançado: 05/03/2026
+Foi um dos titulos que disputou o The Game  awards, de 2026, ficando em 4th colocado na disputa.
+
+Magic Valey - Lançado: 30/10/2020
+Uma simulação de fazenda, bem recebida pelo publico geral. Atualmente é considerado um dos principais titulos do gênero.
+
+Gold War - Lançado: 21/05/2014
+Um jogo de guerra em um mundo medieval, o jogador enfrentara diversos inimigos mitologicos.
+
+Fantasy Hunter - Lançado: 15/06/2009
+Explore um mundo fantastico cheio de desafios, com os seus companheiros. Batalhe contra mostros colossais em um mapa aberto.
+
+ESQUELETO BASE UTILISADO NA ANTIGA VERÇÃO:
+
+<section>
+    <article>
+        <figure>
+            <figcaption>
+                <p>
+                </p>
+            </figcaption>
+        </figure>
+
+        <figure>
+            <figcaption>
+                <p>
+                </p>
+            </figcaption>
+        </figure>
+
+        <figure>
+            <figcaption>
+                <p>
+                </p>
+            </figcaption>
+        </figure>
+    </article>
+</section>

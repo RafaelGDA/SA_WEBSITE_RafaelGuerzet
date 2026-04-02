@@ -1,0 +1,279 @@
+/* IMPORTAR ICONS */
+
+/* IMPORTAR FONT */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #f4f6fb;
+    color: black;
+    line-height: 1.6;
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+a{
+    text-decoration: none;
+}
+
+i{
+    color: black;
+    padding: 10px;
+}
+
+i:hover{
+    color:  rgb(255, 212, 59);
+}
+
+.nome-site{
+    color: white;
+    /* text-align: center; */
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1400px;
+}
+
+.topo{
+    background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+
+    display: flex;
+    justify-content: space-evenly;
+    /* CONTORNO */
+    /* border: 5px solid wheat; */
+    border-radius: 10px;
+}
+
+.navegacao{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    min-height: 85px;
+}
+
+.menu{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    /* CONTORNO */
+    /* border: 2px solid wheat; */
+}
+
+.menu a{
+    color: white;
+    font-weight: 700;
+    padding: 10px 15px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.menu a:hover{
+    background-color: #1e293b;
+    color: gold;
+}
+
+/* TOPICOS e TEXTOS - QUEM SOMOS? | NOSSOS JOGOS EM DESTAQUE */
+.secao{
+    padding: 30px 0 50px 0;
+}
+
+.titulo-secao{
+    margin-bottom: 25px;
+}
+
+.titulo-secao h2{
+    font-size: 2em;
+    color: #111827;
+    margin-bottom: 8px;
+}
+
+.titulo-secao p{
+    color: #4b5058;
+
+    background-color: white;
+    padding: 30px;
+    border: 20px;
+    box-shadow: 0 10px 30px lightgray;
+}
+
+p strong:hover{
+    color: palevioletred;
+    /* background-color: #1e293b; */
+    border-radius: 5px;
+}
+
+/* Ediquetas da página */
+.grupo-etiqueta{
+    padding-bottom: 10px;
+    /* border: 2px solid red; */
+}
+
+.etiqueta-linha{
+    display: inline;
+    background-color: palevioletred;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10%;
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.etiqueta-linha:hover{
+    background-color: #f4f6fb;
+    color: palevioletred;
+}
+
+span > a{
+    color: white;
+} 
+a:hover{
+    color: palevioletred;
+}
+
+/* GRUPO CARDS */
+.grupo-cards{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.card-jogo img{
+    flex: 1 1 360px;
+    background-color: white;
+    border-radius: 15px;
+    height: 250px;
+}
+
+.grupo-cards > article{
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.card-jogo h2{
+    padding: 10px;
+}
+
+.card-jogo p{
+    height: auto;
+}
+
+.bloco-link{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 10px 30px lightgray;
+}
+
+.bloco-link a:hover{
+    color: white;
+    background-color: palevioletred;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* RODAPÉ DO SITE */
+.rodape{
+    margin-top: 50px;
+    background-color: #0f172a;
+    color: white;
+    padding: 10px 20px;
+
+    display: flex;
+    justify-content: space-between;
+
+    /* CONTORNO */
+    /* border: 5px solid yellow; */
+}
+
+
+/* PAGINA 2 - TABELA */
+.tabela{
+    background-color: white;
+    box-shadow: 0 10px 30px lightgray;
+    width: 1000px;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.grupo-tabelas{
+    background-color: #f4f6fb;
+    display: grid ;
+    grid-template-columns: 250px 250px 250px 250px;
+    grid-template-rows: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.linha-cima td{
+    border: 2px solid #f4f6fb;
+    color: gray;
+    padding: 15px;
+}
+
+.linha-jogo td{
+    border: 2px solid #f4f6fb;
+    color: gray;
+    padding: 15px;
+}
+
+/* PAGINA 3 - GALERIA*/
+.card-jogo > img{
+    width: 500px;
+}
+
+.descricao{
+    width: 500px;
+    height: auto;
+}
+
+.descricao > p:hover{
+    color: palevioletred;
+}
+
+.galeria > h2{
+    margin-top: 20px;
+    /* border: 2px solid black; */
+}
+
+/* PAGINA 4 - CONTATO */
+.formulario{
+    color: black;
+    border: 5px solid white;
+    box-shadow: 0 10px 30px lightgray;
+    padding:20px;
+    width: 317px;
+    margin: auto;
+}
+
+.formulario > h3{
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+.enviar{
+    padding: 20px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
